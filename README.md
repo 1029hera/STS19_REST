@@ -9,7 +9,7 @@
     - MyBatis
     - lombok
     - jackson-databind
- * Controller, Service, MyBatis를 annotation을 사용하여 이용
+ * RestController, Service, MyBatis를 annotation을 사용하여 이용
   
 ### 프로젝트 셋업에 관한 절차
  * server: tomcate v9.0 사용
